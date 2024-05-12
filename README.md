@@ -55,7 +55,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="64" height="64"/> 
   </a>
   <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> 
-    <img src="https://camo.githubusercontent.com/b08075c31282c14e691b88248363829a344a27877d7bc7b6e07e7baee91429c9/68747470733a2f2f6a656e6b696e732e696f2f73697465732f64656661756c742f66696c65732f6a656e6b696e735f6c6f676f2e706e67" alt="docker" width="64" height="64"/> 
+    <img src="https://camo.githubusercontent.com/b08075c31282c14e691b88248363829a344a27877d7bc7b6e07e7baee91429c9/68747470733a2f2f6a656e6b696e732e696f2f73697465732f64656661756c742f66696c65732f6a656e6b696e735f6c6f676f2e706e67" alt="docker" width="128" height="64"/> 
   </a>
   <br/>
 </p>
